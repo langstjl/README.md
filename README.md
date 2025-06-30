@@ -1,8 +1,8 @@
-# Hi, I'm Jefferson Langston 
+# Hello, I am Jefferson Langston
 
 ## Flight Paramedic & Program Data Analyst
 
-Flight paramedic and lead data analyst specializing in leveraging data to advance patient care and operational efficiency in critical care transport. Experienced in Python, SQL, and JavaScript for data analysis, prediction, visualization, and web-based solutions. Skilled in streamlining data workflows and translating complex datasets into actionable insights using MetaBase and modern analytics tools. Passionate about integrating clinical expertise with data-driven innovation.
+Flight paramedic and program data analyst specializing in leveraging data to advance patient care and operational efficiency in critical care transport. Experienced in Python, SQL, and JavaScript for data analysis, prediction, visualization, and web-based solutions. Skilled in streamlining data workflows and translating complex datasets into actionable insights using MetaBase and modern analytics tools. Passionate about integrating clinical expertise with data-driven innovation.
 
 ---
 
